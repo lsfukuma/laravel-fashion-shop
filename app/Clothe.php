@@ -4,7 +4,7 @@ namespace App;
 
 use Illuminate\Database\Eloquent\Model;
 
-class ModelCloth extends Model
+class Clothe extends Model
 {
     //
 }
